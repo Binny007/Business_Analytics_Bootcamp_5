@@ -2,7 +2,7 @@
 
 # Distrribution Charts and Plotting Basics
 
-###Overview
+##Overview
 
 This repository covers the fundamental concepts and implementation of distribution charts, including Histogram, Box Plot, Violin Plot, and Ridgeline Plot, using the Pokémon dataset. These visualizations help understand data distribution, identify outliers, and analyze patterns effectively.
 
