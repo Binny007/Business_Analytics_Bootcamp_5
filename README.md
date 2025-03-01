@@ -1,17 +1,17 @@
 # Business_Analytics_Bootcamp_5
 
-# Distrribution Charts and Plotting Basics
+# Distribution Charts and Plotting Basics
 
-#Overview
+# Overview
 
 This repository covers the fundamental concepts and implementation of distribution charts, including Histogram, Box Plot, Violin Plot, and Ridgeline Plot, using the Pokémon dataset. These visualizations help understand data distribution, identify outliers, and analyze patterns effectively.
 
 Additionally, a cheatsheet for visualization customization in Matplotlib and Seaborn is provided to enhance styling and presentation.
 
 
-#📊 Distribution Charts Explained
+# 📊 Distribution Charts Explained
 
-#1️⃣ Histogram
+# 1️⃣ Histogram
 
 A Histogram is used to visualize the distribution of a dataset by grouping data into bins.
 
@@ -29,7 +29,7 @@ A Histogram is used to visualize the distribution of a dataset by grouping data 
     plt.show()
 
 
-#2️⃣ Box Plot (Box-and-Whisker Plot)
+# 2️⃣ Box Plot (Box-and-Whisker Plot)
 
 A Box Plot displays the distribution of data based on five-number summary:
 
@@ -44,7 +44,7 @@ A Box Plot displays the distribution of data based on five-number summary:
     plt.show()
 
 
-#3️⃣ Violin Plot
+# 3️⃣ Violin Plot
 
 A Violin Plot combines a Box Plot and a Kernel Density Estimate (KDE) to show the data distribution.
 
@@ -59,7 +59,7 @@ A Violin Plot combines a Box Plot and a Kernel Density Estimate (KDE) to show th
     plt.show()
 
 
-#4️⃣ Ridgeline Plot
+# 4️⃣ Ridgeline Plot
 
 A Ridgeline Plot visualizes distributions across multiple groups.
 
@@ -77,7 +77,7 @@ A Ridgeline Plot visualizes distributions across multiple groups.
     plt.show()
 
 
-#🔥 Key Takeaways
+# 🔥 Key Takeaways
 
 ✔ Histogram: Shows data distribution through bins.
 ✔ Box Plot: Highlights outliers and quartiles.
@@ -85,7 +85,7 @@ A Ridgeline Plot visualizes distributions across multiple groups.
 ✔ Ridgeline Plot: Displays multiple distributions together for comparison.
 
 
-#🎨 Cheatsheet for Customization
+# 🎨 Cheatsheet for Customization
 
 For detailed customization options in Matplotlib and Seaborn, refer to the included cheatsheet file in the repository.
 
@@ -97,7 +97,7 @@ For detailed customization options in Matplotlib and Seaborn, refer to the inclu
 
 
 
-#📌 References
+# 📌 References
 
     * Seaborn Documentation [https://seaborn.pydata.org/]
     
