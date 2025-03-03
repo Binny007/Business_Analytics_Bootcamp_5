@@ -80,8 +80,11 @@ A Ridgeline Plot visualizes distributions across multiple groups.
 # 🔥 Key Takeaways
 
 ✔ Histogram: Shows data distribution through bins.
+
 ✔ Box Plot: Highlights outliers and quartiles.
+
 ✔ Violin Plot: Combines KDE and Box Plot for better density visualization.
+
 ✔ Ridgeline Plot: Displays multiple distributions together for comparison.
 
 
